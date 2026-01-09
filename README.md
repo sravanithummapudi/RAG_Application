@@ -27,19 +27,6 @@ A Retrieval-Augmented Generation (RAG) application built with Streamlit that all
 - Python 3.8 or higher
 - Groq API key (get it from groq.com by creating a account)
 
-##  Dependencies
-
-Create a `requirements.txt` file with:
-```
-streamlit
-sentence-transformers
-groq
-PyPDF2
-chromadb
-numpy
-torch
-```
-
 ##  Usage
 
 1. **Run the application**
@@ -88,4 +75,4 @@ rag-application/
 
 
 
-Made with ❤️ using Python and AI
+
